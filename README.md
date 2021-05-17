@@ -33,7 +33,7 @@ npm run wdio
 
 ```
 
-## About tests .
+## About tests .test
 
 - Unit tests
   - All components have at least a basic smoke test
